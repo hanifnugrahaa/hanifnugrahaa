@@ -12,7 +12,7 @@ I'm an undergraduate student in **Electronics and Instrumentation** at Universit
 
 ## 🚀 Latest Projects
 
-- [`student-grades-program`](https://github.com/hanifnugrahaa/student-grades-program) – A simple Java-based program to manage and calculate student grades using OOP principles.
+- [`student-grades-program`](https://github.com/hanifnugrahaa/student-grades-program) – A simple JavaScript app to store, manage, and calculate student grades. Built with clean code and modular structure.
 - [`UAS_PBO`](https://github.com/musariul30/UAS_PBO) – A Java-based bakery app created for a final exam project.
 
 ## 📊 GitHub Stats
