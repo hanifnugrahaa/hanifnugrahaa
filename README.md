@@ -27,7 +27,9 @@ I'm an undergraduate student in **Electronics and Instrumentation** at Universit
 
 ## 🧠 Campus Life
 
-- Currently serving as **Head of Academic & Advocacy Division** in the Electronics and Instrumentation Student Association at UGM.
+- Currently serving as **Head of Academic & Advocacy Division** in the Electronics and Instrumentation Student Association (HMEI) at UGM.
+- Active **member of the Website Development Division** at Elins Research Club (ERC), Universitas Gadjah Mada.
+- **Varsity Basketball Player** in Men's Basketball Team UGM
 - Actively involved in student communities and tech development initiatives.
 
 ## 📫 Let’s Connect!
