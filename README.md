@@ -8,7 +8,7 @@ I'm an undergraduate student in **Electronics and Instrumentation** at Universit
 
 - **Languages**: Java, Python, Javascript, C++
 - **Tools I Use**: Git, VS Code, NetBeans, Arduino IDE, Arduino, ESP32
-- **Interests**: IoT, Website Development
+- **Interests**: IoT, Web Development, Mobile App
 
 ## 🚀 Latest Projects
 
@@ -29,7 +29,7 @@ I'm an undergraduate student in **Electronics and Instrumentation** at Universit
 
 - Currently serving as **Head of Academic & Advocacy Division** in the Electronics and Instrumentation Student Association (HMEI) at UGM.
 - Active **member of the Website Development Division** at Elins Research Club (ERC), Universitas Gadjah Mada.
-- **Varsity Basketball Player** in Men's Basketball Team UGM
+- **Head of Software Developer** at G-Connect UGM Project
 - Actively involved in student communities and tech development initiatives.
 
 ## 📫 Let’s Connect!
