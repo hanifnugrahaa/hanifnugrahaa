@@ -18,7 +18,7 @@ I'm an undergraduate student in **Electronics and Instrumentation** at Universit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanifnugrahaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hanifnugrahaa&theme=tokyonight&hide_border=true&ring=7F3FBF&fire=FF6E96&currStreakLabel=7F3FBF" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hanifnugrahaa&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
