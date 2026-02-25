@@ -19,7 +19,7 @@ I'm an undergraduate student in **Electronics and Instrumentation** at Universit
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hanifnugrahaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifnugrahaa&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hanifnugrahaa&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <!-- Optional: Profile views -->
