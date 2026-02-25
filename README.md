@@ -10,11 +10,6 @@ I'm an undergraduate student in **Electronics and Instrumentation** at Universit
 - **Tools I Use**: Git, VS Code, NetBeans, Arduino IDE, Arduino, ESP32
 - **Interests**: IoT, Web Development, Mobile App
 
-## 🚀 Latest Projects
-
-- [`student-grades-program`](https://github.com/hanifnugrahaa/student-grades-program) – A simple JavaScript app to store, manage, and calculate student grades. Built with clean code and modular structure.
-- [`UAS_PBO`](https://github.com/musariul30/UAS_PBO) – A Java-based bakery app created for a final exam project.
-
 ## 📊 GitHub Stats
 
 <p align="center">
