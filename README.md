@@ -14,7 +14,7 @@ I'm an undergraduate student in **Electronics and Instrumentation** at Universit
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hanifnugrahaa&theme=tokyonight&hide_border=true&ring=7F3FBF&fire=FF6E96&currStreakLabel=7F3FBF" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hanifnugrahaa&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hanifnugrahaa&layout=compact&hide_progress=true&theme=tokyonight&hide_border=true)
 </p>
 
 <!-- Optional: Profile views -->
